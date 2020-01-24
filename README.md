@@ -1,1 +1,3 @@
 # Localize
+
+Storyboard Localization test
